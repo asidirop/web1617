@@ -1,0 +1,9 @@
+lalala
+lalala
+Akomi gia grammi
+<<<<<<< HEAD
+a = a + 20;
+=======
+a = a + 5*4;
+>>>>>>> origin/master
+lalala
