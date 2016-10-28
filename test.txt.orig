@@ -1,9 +1,13 @@
 lalala
 lalala
 Akomi gia grammi
-<<<<<<< HEAD
-a = a + 20;
-=======
+a = a + 5;
 a = a + 5*4;
->>>>>>> origin/master
 lalala
+
+
+<<<<<<< HEAD
+last line5
+=======
+last line44
+>>>>>>> master
